@@ -4,7 +4,7 @@ def user_input_to_fofa_query(user_input):
     # 假设这里是将用户输入转化为FOFA语句的逻辑
     # 示例：简单地返回用户输入内容
     # 实际情况中，你需要根据具体的转换规则来实现
-    fofa_query = f'"{user_input}"'
+    fofa_query = f'{user_input}'
     return fofa_query
 
 def execute_bug_scan_script():
