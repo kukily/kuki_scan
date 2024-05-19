@@ -2,7 +2,7 @@
 fofa联动nuclei实现批量漏扫（需要fofa会员），目前只有linux版本
 
 项目介绍
-本项目是基于大佬的bug_scan的二次开发，里面加入了一些自己的小思路，做到完全自动化。源项目地址：https://github.com/some-new-codes/bug_scan?tab=readme-ov-file
+
 
 这是一个结合fofa和nuclei的批量漏洞扫描脚本，能够根据给出的关键词进行批量化扫描， 适合放在linux服务器上，可以做到24小时自动扫描
 
